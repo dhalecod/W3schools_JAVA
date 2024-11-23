@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        short myNum = 12345;
+        int myNum = -1234567890;
         System.out.println(myNum);
     }
 }
