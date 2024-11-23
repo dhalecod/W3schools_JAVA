@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        int myNum = -1234567890;
+        long myNum = 123456789L;
         System.out.println(myNum);
     }
 }
