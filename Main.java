@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        float myNum = 1.99F;
+        double myNum = 22.98d;
         System.out.println(myNum);
     }
 }
