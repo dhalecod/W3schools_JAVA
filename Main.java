@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        byte myNum = -123;
+        short myNum = -12345;
         System.out.println(myNum);
     }
 }
